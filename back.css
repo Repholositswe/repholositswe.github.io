@@ -1,0 +1,34 @@
+div { height: 500px;
+  color: red;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+ .cow-img {
+  background: url("./images/cow.jpg");
+  background-size: cover;
+  height: 500px;
+  width: ;
+  background-attachment: fixed;
+}
+
+.small-img {
+  background: url("./images/web.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position: 55% 60%;
+  background-attachment: fixed;
+  height: ;
+  width: ;
+}
+.folder-img {
+  border: 2px solid black;
+  background: url("./images/coffee.jpg");
+  background-repeat: no-repeat;  
+  background-repeat: repeat-y; 
+  background-repeat: repeat-x;
+  background-attachment: fixed; 
+}

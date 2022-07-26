@@ -1,0 +1,23 @@
+h1, h2{ color:red;
+  font-size:30px;
+}
+#world { color: rgb(0, 255, 0);
+   background:black;
+}
+
+.green{ color:green;
+}
+
+.red{ color:red;
+   background:grey;
+  }
+
+div{ color:pink;
+  background: black;
+}
+
+span{ text-transform: uppercase;
+}
+
+body{ background: rgb(100, 34, 20);
+}

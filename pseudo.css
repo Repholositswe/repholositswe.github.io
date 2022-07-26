@@ -1,0 +1,13 @@
+*/
+p::before { content: "hello ";
+ dispay: block;
+ background: black;
+ font-size: 2rem;
+ color: red;
+}
+
+p::after { content: "after";
+  display: block;
+  backgound: green;
+  color: red;
+}

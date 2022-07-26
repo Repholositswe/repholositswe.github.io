@@ -1,0 +1,46 @@
+body {
+    background: black; 
+    color: powderblue;
+    text-align: center;
+    outline: green solid 2px;
+    }
+.topnav { float: right;
+    marging: 15px;
+    padding: 15px;
+   }
+a { text-decoration: none;
+   color: powderblue;
+   font-size: 25px;
+   padding: 8px;
+   margin: 10px;
+   display: block;
+   float: left; 
+}
+li a:hover { background-color: pink;
+}
+.active { background-color: green;
+}
+.one { width: 50%;
+   padding: 20px;
+   font-size: 20px; 
+   margin: 20px;
+   position: relative;
+   bottom: -90px;
+   }
+#button { font-size: 15px;
+  color: black;
+  background: green;
+  border: green solid 2px;
+  border-style: dotted;
+}
+img { width: 30%;
+  border-radius: 45%;
+  border: greesolid 2px;
+  float: right;
+  background-size: cover;
+  position: absolute;
+  right: 160px;
+  top: 170px;
+  z-index: -20;
+}
+

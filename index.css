@@ -1,0 +1,34 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>My First Web</title>
+<style>
+body {background-color: powderblue; background-image: url=(../img/cow.jpg);}
+h1 {color: blue;}
+p {color: orange; font-family: courier; font-size: 120%;}
+</style>
+</head>
+<body>
+<h1 style="font-size:70px;"style="text-align:center:">About Prudence Maphutha</h1>
+<p>My name is <q>Prudence Maphutha</q> i'm an aspiring web developer.</p>
+<hr>
+<p>I'm a graduate from Tshwane University Of Technology.</p>
+<blockquote cite="http://www.worldwild.org/who.html">
+<pre>
+i am beautiful
+i am cute 
+</pre>
+</blockquote>
+ <a href="https://www.w3schools.com">This is a link</a>
+<img src="images/cow.jpg" alt="Cow" width="350" height="400">
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+
+<address>
+125 Alexandra. <br>
+14 Avenue. <br>
+2090. <br>
+</address>
+<p>This <!-- great text -->is B.</p>
+
+</body>
+</html>
