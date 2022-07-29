@@ -3,6 +3,7 @@ body {
     color: powderblue;
     text-align: center;
     outline: green solid 2px;
+    height: 100vh;
     }
 .topnav { float: right;
     marging: 15px;
